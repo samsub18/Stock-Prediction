@@ -2,7 +2,7 @@
 
 ## Kalpana Makathon
 
-An attempt to predict stock using Random Forest Algorithm
+An attempt to predict stock using Random Forest Algorithm and using LSTM(Long Short Term Memory)
 
 Important Links:
 
